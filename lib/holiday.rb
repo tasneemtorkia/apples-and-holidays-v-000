@@ -77,7 +77,7 @@ holiday.each do |holiday, supplies|
     bbq_hol
 end
 end 
-
+end 
 
 
 
